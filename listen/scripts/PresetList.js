@@ -98,6 +98,9 @@ var PresetList = {
 			"Lectric.json",
 			"Marimba.json",
 			"TreeTrunk.json"
+		],
+		"DrumSynth": [
+			"Default.json"
 		]
 	}
 }
